@@ -1,0 +1,78 @@
+#title {
+  background-color: #f6d186;
+  font-family: 'Righteous', serif;
+}
+
+.container-fluid {
+  padding: 1% 15%;
+}
+
+.navbar-brand {
+  font-family: 'Lobster Two', serif;
+  font-size: 50px;
+}
+
+.nav-item {
+  font-family: 'Righteous';
+  padding: 7px;
+  font-size: 20px;
+}
+
+.insta-button {
+  margin: 10% 3% 1% 0%;
+}
+
+.fa-instagram {
+  margin-right: 5px;
+}
+
+.navbar {
+  padding: 0 0 3.5rem;
+}
+
+.row {
+  padding-top: 6%;
+}
+
+h1 {
+  font-family: 'Lobster Two', serif;
+  font-size: 80px;
+}
+
+h5 {
+  font-family: 'Rajdhani';
+  font-weight: bold;
+  font-size: 15px;
+}
+
+
+a {
+  text-decoration: none;
+  color: #000000;
+}
+
+a:hover {
+  color: #eeeeee;
+}
+
+.intro {
+  font-family: 'Poiret One';
+  font-weight: bold;
+}
+
+.logo {
+  font-family: 'Lobster Two', serif;
+  margin: 0;
+  padding-bottom: 3%;
+}
+
+.req {
+  font-family: 'Poiret One';
+  font-weight: bold;
+  padding-bottom: 9%;
+}
+
+h3 {
+  font-family: 'Poiret One';
+  font-weight: bold;
+}
